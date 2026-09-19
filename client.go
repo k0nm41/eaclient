@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"unicode"
 
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avsproperty"
 )
 
 type clientError string

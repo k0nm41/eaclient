@@ -6,8 +6,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/YoshihikoAbe/avslz"
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avslz"
+	"github.com/Ambloplites/avsproperty"
 )
 
 const (

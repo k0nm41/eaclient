@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eaclient"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eaclient"
 	"gopkg.in/yaml.v3"
 )
 
